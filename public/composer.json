@@ -1,0 +1,35 @@
+{
+	"name": "alexcpr/criee",
+	"description": "La Criée",
+	"type": "project",
+	"homepage": "https://10.129.189.212/",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "CIPOR Alexandre",
+            "email": "contact@alexandrecipor.com",
+            "homepage": "https://alexandrecipor.com",
+            "role": "Developer"
+        },
+		{
+            "name": "PERREAUT Leo",
+            "email": "leo.perreaut@laposte.net",
+            "homepage": "https://github.com/LeoPeyyro/",
+            "role": "Developer"
+        },
+		{
+            "name": "O'KEEF Ethan",
+            "email": "shadowdrak68@gmail.com",
+            "homepage": "https://github.com/pROJETx4",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.7",
+		"google/recaptcha": "1.2",
+		"cboden/ratchet": "^0.4.4"
+	},
+    "config": {
+        "platform-check": false
+    }
+}
