@@ -3,7 +3,7 @@
 La Criée est une application web créée avec le framework CodeIgniter.
 Elle permet de gérer les ventes aux enchères en ligne de lots de poissons. 
 
-## Configuration requise
+## Prérequis
 
 - PHP 
 - Serveur web (Apache, NGINX, etc.)
